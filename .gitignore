@@ -1,0 +1,4 @@
+# Large data files and saved models (too big for GitHub)
+*.parquet
+*.joblib
+.ipynb_checkpoints/
